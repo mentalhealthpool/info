@@ -10,3 +10,6 @@ Our goal is to be as transparent as possible about our finances. We have therefo
 charitable donations.
 
 To the extent there is a mental health-focused charity you think is worthy of our donating to, please let us know! mentalhealthpool@pm.me
+
+Google Sheet Tracker:
+https://docs.google.com/spreadsheets/d/1twsl_5Z6MwLKtdLgOl5I7aocFRfEBm4UHOoFrcDe0iM/edit?usp=sharing
