@@ -1,4 +1,4 @@
-Welcome to Mental Health Pool! We're here to support the Cardano community and decentralize the world's trust systems. 
+Welcome to Mental Health Pool! We're here to support the Cardano community and help decentralize the world's trust systems. 
 
 To that end, we created the Mental Health Pool to support the network AND donate to worthy mental health-focused 501(c)(3) organizations.
 
